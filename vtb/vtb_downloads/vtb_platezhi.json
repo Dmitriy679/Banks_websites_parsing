@@ -1,0 +1,52 @@
+[
+  {
+    "title": "Все платежи 0% комиссии",
+    "description": "ЖКХ, мобильная связь, штрафы, госпошлины, налоги, детские сады, школы, а также оплата товаров и услуг по реквизитам в ВТБ Онлайн",
+    "detail_link": "https://www.vtb.ru/personal/platezhi/all-payments-without-commissions/"
+  },
+  {
+    "title": "Умная камера",
+    "description": "Быстрый, удобный и безопасный способ\nоплаты услуг по QR-коду,\nс фотоплатежом или с оплатой\nиз мессенджеров, галереи и почты\nв ВТБ Онлайн",
+    "detail_link": "https://www.vtb.ru/personal/platezhi/umnaya-kamera/"
+  },
+  {
+    "title": "Автоплатежи",
+    "description": "Подключение доступно для оплаты услуг\nЖКХ, мобильной связи и штрафов ГАИ",
+    "detail_link": "https://www.vtb.ru/personal/platezhi/avtoplatezhi-zhku/"
+  },
+  {
+    "title": "Счета на оплату",
+    "description": "ЖКУ, Образование, Налоги, Штрафы ГАИ, Интернет, ТВ, телефония и другие счета будут автоматически появляться в\nразделе после первой оплаты",
+    "detail_link": "https://www.vtb.ru/personal/platezhi/scheta-na-oplatu/"
+  },
+  {
+    "title": "Специальные предложения для жителей Крыма",
+    "description": "Оплата коммунальных и образовательных услуг, транспорта и сотовой связи без комиссии в ВТБ Онлайн",
+    "detail_link": "https://www.vtb.ru/personal/platezhi/rnkb/"
+  },
+  {
+    "title": "Специальные предложения для молодежи",
+    "description": "Оплата учебы без комиссии, подписка ВТБ Плюс, онлайн игры и другие возможности для молодежи с ВТБ Онлайн",
+    "detail_link": "https://www.vtb.ru/promo/students/"
+  },
+  {
+    "title": "ЖКУ",
+    "description": "Оплачивайте коммунальные услуги\nонлайн",
+    "detail_link": "https://www.vtb.ru/personal/platezhi/informacija-o-nachislenijah-za-zhilishhno-kommunalnye-uslugi/"
+  },
+  {
+    "title": "Автоплатежи ЖКУ",
+    "description": "Экономия времени, удобная\nи безопасная оплата счетов",
+    "detail_link": "https://www.vtb.ru/personal/platezhi/avtoplatezhi-zhku/"
+  },
+  {
+    "title": "Счета на оплату",
+    "description": "Будьте в курсе своих начислений,\nоплачивайте их вовремя, в один клик",
+    "detail_link": "https://www.vtb.ru/personal/platezhi/scheta-na-oplatu/"
+  },
+  {
+    "title": "Интернет, ТВ, телефония",
+    "description": "Оплачивайте услуги домашнего\nинтернета, телефонию и ТВ в адрес\nпровайдеров",
+    "detail_link": "https://www.vtb.ru/personal/platezhi/internet/"
+  }
+]
