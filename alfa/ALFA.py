@@ -455,10 +455,10 @@ if __name__ == "__main__":
     # Остальные настройки
     URLS = [
 
-        "https://alfabank.ru/mobile/",
-        "https://alfabank.ru/get-money/",
-        #"https://alfabank.ru/make-money/",
-        #"https://alfabank.ru/everyday/debit-cards/",                       
+        #"https://alfabank.ru/mobile/",
+        #"https://alfabank.ru/get-money/",
+        "https://alfabank.ru/make-money/",
+        "https://alfabank.ru/everyday/debit-cards/",                       
     ]    
     HEADLESS = False
     MIN_DELAY = 1.0
